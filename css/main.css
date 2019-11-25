@@ -1,7 +1,15 @@
 body {
     font-family: Open Sans;
 }
-
+.jumbotron {
+    height: 400px;
+    background: white;
+    background-size: 80%; 
+    background-repeat: no-repeat;
+    background-position: right;
+    background-image: linear-gradient(88.8deg, #FFFFFF, rgba(229, 229, 229, 0) 60%), 
+                        url("../img/header.png");
+}
 .btn {
     background-color: #5ABBA6;
     color: white;
