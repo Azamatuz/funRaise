@@ -17,6 +17,12 @@ body {
     background-color: #5ABBA6;
     color: white;
 }
+.card-body {
+    background-color:#F2F2F2;
+}
+.card-bg {
+    background-color:#F2F2F2;
+}
 
 .bd-placeholder-img {
     font-size: 1.125rem;
